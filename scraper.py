@@ -93,7 +93,6 @@ url = "http://www.qvh.nhs.uk/about-us/publications-policies/transparency-of-publ
 errors = 0
 data = []
 
-
 #### READ HTML 1.0
 
 html = urllib2.urlopen(url)
